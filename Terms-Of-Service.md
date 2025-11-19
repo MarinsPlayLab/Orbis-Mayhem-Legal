@@ -28,12 +28,17 @@ By accepting these Terms, you confirm that you have read and understood the Priv
 
 ## 3. Eligibility and Age Requirements
 
-- The Game is primarily intended for users aged **16 years or older**.  
-- By using the Game, you represent and warrant that:
-  - You are at least 16 years old; or  
-  - You are using the Game under the supervision and with the consent of a parent or legal guardian who has the authority to agree to these Terms on your behalf, where such consent is required by the laws of your country.
+- The Game is primarily intended for users aged **16 years or older**.
+- Players aged **13 to 15** may access the Game only if their parent or legal guardian has reviewed these Terms and the Privacy Policy and has provided any consent required by applicable law.
+- Players **under 13** must **not** use the Game. The first-launch age selector has a minimum setting of 13, and the Game will deny access if an age below 13 is selected or otherwise detected.
 
-The Game is **not targeted at children**. If you do not meet the applicable age requirements, you must not use the Game.
+By using the Game, you represent and warrant that:
+
+- The age you provide through the in-game age confirmation (shown on first launch, account creation, or when changing from guest to registered account) is truthful and accurate;
+- You meet the minimum age requirement for your region, or you have verifiable parental/guardian consent if you are between 13 and 15;
+- You will promptly stop using the Game if you fall below the permitted age or if a guardian revokes consent.
+
+Guardians can contact us at **OrbisMayhem@protonmail.com** with the player’s account ID (available in the in-game account settings) to review, provide, or revoke consent, request deletion of an underage account, or raise any related concerns. If we learn that an account belongs to a player under 13, or that a 13–15-year-old does not have appropriate consent, we may suspend or delete the account to comply with the law and our policies.
 
 You are responsible for ensuring that your use of the Game complies with all applicable laws, regulations, and app store rules in your jurisdiction.
 
@@ -139,11 +144,17 @@ You must comply with the relevant store rules. We do not control the billing pro
 
 ### 7.2 Nature of Virtual Items
 
-- Virtual items and virtual currencies have **no real-world monetary value** and are not redeemable for money or any monetary equivalent from us or any other party.  
-- You obtain only a limited license to use virtual items within the Game; you do not gain any property rights in them.  
+- Virtual items and virtual currencies have **no real-world monetary value** and are not redeemable for money or any monetary equivalent from us or any other party.
+- You obtain only a limited license to use virtual items within the Game; you do not gain any property rights in them.
 - We may, at our discretion and subject to applicable law, modify, balance, remove, or discontinue virtual items, virtual currencies, or features at any time, with or without notice.
 
 Unless required by applicable consumer law or app store policies, **all sales of virtual items are final and non-refundable**.
+
+### 7.3 Refunds, Withdrawal Rights, and Store Responsibilities
+
+- Refunds for purchases made through Google Play, the Apple App Store, or any other authorized platform are handled exclusively by those stores under their own policies. We do not process refunds directly.
+- Where EU or local consumer law grants a statutory withdrawal right for digital content, you acknowledge that delivery of the virtual item begins immediately after purchase. By confirming the purchase in the store interface, you request that delivery start immediately and acknowledge that the withdrawal right is waived once delivery begins, except where the store expressly provides otherwise.
+- Any refund that a store grants or denies is governed by that store’s decision. We will follow and implement the store’s outcome (for example, by revoking items if a refund occurs).
 
 ---
 
@@ -168,11 +179,12 @@ Where we publish Game-related materials on GitHub, your use of GitHub and any co
 
 Each repository may also contain a `LICENSE` file or other notice specifying the license for that code or content. That license governs what you may or may not do with the material, in addition to GitHub’s own terms.
 
-### 8.3 Other Third Parties
+### 8.3 Other Third Parties and Updates to the List
 
 As the Game evolves, we may integrate additional third-party services (for example, crash reporting, additional analytics or ad networks, matchmaking backends, or anti-cheat systems). The exact list may change over time.
 
-- There may be other third parties involved in the Game that are not explicitly listed in these Terms at any given moment.  
+- We commit to updating the list of third parties in these Terms and in the Privacy Policy as soon as reasonably practical when we add or remove integrations. Because releases sometimes ship quickly, there may be a short delay between enabling a new third-party SDK and updating the documentation. In that case, the SDK’s own consent prompts and disclosures apply until the documentation is updated.
+- At the time of this version, the principal third parties involved in the Game are **Google Play**, **Apple App Store / Apple Media Services**, **Unity services (including Ads, Analytics, and backend)**, and **GitHub** for repositories.
 - You should always review the legal documents and consent dialogs presented by your device, operating system, app store, and any SDKs or services within the Game.
 
 We are not responsible for the availability or performance of third-party services or for any damage arising from your separate relationship with those providers, except to the minimum extent required by mandatory law.
@@ -195,7 +207,7 @@ You remain fully responsible for any content you submit or display through the G
 - Contains hate speech, threats, harassment, discrimination, or explicit sexual content;  
 - Contains malware, spam, or other harmful code.
 
-By submitting content, you grant us a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, reproduce, modify, display, and distribute such content in connection with operating and improving the Game (for example, showing your messages to other players, logging content for moderation, or using anonymised examples to improve systems).
+By submitting content, you grant us a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, reproduce, modify, display, and distribute such content in connection with operating and improving the Game (for example, showing your messages to other players, logging content for moderation, or using anonymised examples to improve systems). See the Privacy Policy (Section 4.7) for details on how moderation data is stored and retained.
 
 ### 9.2 Leaderboards and Rankings
 
@@ -225,7 +237,18 @@ These actions are at our discretion to protect the Game, its community, and our 
 
 ---
 
-## 10. Ownership of Code and Assets
+## 10. Fan Content and Community Sharing
+
+We support respectful fan-made creations such as gameplay videos, screenshots, live streams, guides, and community discussions.
+
+- You may capture, record, stream, or share gameplay footage and screenshots for non-commercial purposes, provided you include reasonable credit to **Orbis Mayhem** and **Marins PlayLab Studio** (for example, mentioning the Game name and linking to an official page or store listing where possible).
+- You must not claim or imply that your fan content is an official product, partnership, or endorsement from us unless we provide written permission.
+- Critique and commentary are welcome, but content that incites violence against the developers, promotes hate, or otherwise crosses into severe disrespect or harassment is not permitted and may lead to takedowns or in-game enforcement.
+- Selling merchandise or monetising the Game’s assets beyond the incidental monetisation available on platforms such as YouTube or Twitch (e.g., ad revenue sharing from gameplay videos) requires our prior written consent.
+
+All fan content remains subject to these Terms, our community guidelines, and applicable law. We may request removal of content that violates these conditions.
+
+## 11. Ownership of Code and Assets
 
 Unless expressly stated otherwise (for example, in specific in-game credits, on the store page, or in a README/`LICENSE` file on GitHub):
 
@@ -236,7 +259,7 @@ Except for the limited license granted to you under Section 5, no rights are gra
 
 ---
 
-## 11. Health, Safety, and Device Use
+## 12. Health, Safety, and Device Use
 
 Before or when you first start playing the Game, we may display one or more warning screens. By continuing to use the Game, you confirm that you have read and understood these warnings and agree to follow them.
 
@@ -257,7 +280,7 @@ You use the Game at your own risk and are responsible for your own health, safet
 
 ---
 
-## 12. Security, Encryption, and Network Architecture
+## 13. Security, Encryption, and Network Architecture
 
 The Game is designed to use reasonable technical measures to protect your data and provide secure gameplay, as described in the Privacy Policy.
 
@@ -273,7 +296,7 @@ However, no system is completely secure or error-free. You acknowledge that:
 
 ---
 
-## 13. Disclaimer of Warranties
+## 14. Disclaimer of Warranties
 
 To the maximum extent permitted by applicable law:
 
@@ -285,7 +308,7 @@ These disclaimers apply to the fullest extent permitted by law and do not remove
 
 ---
 
-## 14. Limitation of Liability and Responsibility for Use
+## 15. Limitation of Liability and Responsibility for Use
 
 To the maximum extent permitted by applicable law:
 
@@ -307,7 +330,7 @@ If and to the extent that applicable law does not allow some of the limitations 
 
 ---
 
-## 15. Termination and Suspension
+## 16. Termination and Suspension
 
 We may suspend, restrict, or terminate your access to the Game (in whole or in part) if:
 
@@ -325,7 +348,7 @@ You may stop using the Game at any time by uninstalling it from your device. Uni
 
 ---
 
-## 16. Governing Law and Jurisdiction
+## 17. Governing Law and Jurisdiction
 
 These Terms are governed by the laws of **Croatia**, together with applicable **European Union law**, without prejudice to any mandatory consumer protection provisions of the law of your country of residence.
 
@@ -333,13 +356,13 @@ If you are a consumer resident in the EU/EEA, you may also have the right to bri
 
 ---
 
-## 17. Severability
+## 18. Severability
 
 If any provision of these Terms is held to be incorrect, illegal, or unenforceable, that provision will be applied to the maximum extent permitted, and the remaining provisions will remain in full force and effect.
 
 ---
 
-## 18. Changes to These Terms
+## 19. Changes to These Terms
 
 We may update these Terms from time to time, for example to reflect:
 

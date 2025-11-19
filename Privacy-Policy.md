@@ -48,8 +48,8 @@ From our side, we apply these principles:
 4. **No data harvesting by us**  
    We do not run mass data-harvesting operations, data brokering, or selling of personal data. Our focus is making Orbis Mayhem fun and safe to play, not building a data-mining business.
 
-5. **Third-party independence**  
-   We cannot control what large third-party providers do with data they collect as independent controllers (e.g., Google, Apple, Unity, GitHub). They operate under their own legal frameworks. To understand their practices, you must review their policies and terms.
+5. **Third-party independence with timely disclosures**
+   We cannot control what large third-party providers do with data they collect as independent controllers (e.g., Google, Apple, Unity, GitHub). They operate under their own legal frameworks. To understand their practices, you must review their policies and terms. We commit to updating this Privacy Policy as soon as reasonably practical whenever we integrate or remove a third-party provider, but there may be a short delay between a release and the documentation update.
 
 ---
 
@@ -128,7 +128,7 @@ When you make in-app purchases:
   - Product IDs, price and currency  
   - Purchase status (successful, refunded, chargeback, etc.)
 
-We use this data to validate purchases, grant in-game items, handle refunds in line with store rules, and combat fraud.
+We use this data to validate purchases, grant in-game items, handle refunds in line with store rules (see the Terms of Service §7 for refund procedures), and combat fraud.
 
 ### 4.5 Support and Voluntary Communications
 
@@ -164,7 +164,19 @@ We use this data to:
 - Detect and act on cheating, hacking, or other conduct that harms the gameplay experience.  
 - Maintain a respectful, safe environment in line with our rules and Terms of Use.
 
-We may review or store copies of chat logs and moderation actions for a limited time when necessary for security, moderation, or evidence in case of disputes.
+We may review or store copies of chat logs and moderation actions for a limited time when necessary for security, moderation, or evidence in case of disputes. Additional details on how we moderate user-generated content are provided in the Terms of Service (Section 9) and the fan-content section (Section 10).
+
+### 4.8 Age Confirmation and Guardian Contact Data
+
+When you first open the Game or create an account, we ask you to confirm your age using an in-game selector. The minimum selectable age is 13. We store the confirmed age range (for example, “under 13”, “13–15”, “16+”) or a timestamped declaration so that we can:
+
+- Ensure we do not knowingly allow players under 13 to access the Game;
+- Determine whether we must request parental/guardian consent for players aged 13 to 15;
+- Demonstrate compliance with applicable laws if questions arise.
+
+If a parent or guardian contacts us at **OrbisMayhem@protonmail.com** with the player’s account ID (visible in the in-game settings), we may collect the guardian’s name and contact details solely to verify consent decisions, respond to requests (including deletion of an underage account), and keep an audit record of the correspondence.
+
+Providing false age information or failing to secure guardian consent when required may lead to suspension or deletion of the account in line with the Terms of Service.
 
 ---
 
@@ -258,11 +270,12 @@ Where we publish Orbis Mayhem-related code or content on GitHub, GitHub processe
 
 Your interactions with GitHub (for example, account management, browsing, and contributions) are governed by GitHub’s own policies and any repository-specific licenses described in LICENSE files or documentation.
 
-### 6.5 Other Third Parties
+### 6.5 Other Third Parties and Updates
 
 As the Game evolves, we may integrate additional third-party tools or services (for example, platform-level crash reporting, additional analytics or ad networks, matchmaking backends, or anti-cheat systems). The list of third parties may change over time.
 
-- There may be **other third parties** involved in processing your data that are **not explicitly listed** here at a given moment.  
+- We commit to updating this section and the corresponding section in the Terms of Service as soon as reasonably practical whenever we add or remove a third party. Release schedules may occasionally result in a short lag between deploying a new SDK and documenting it; until the documentation is updated, you should rely on the SDK’s own consent dialogs and notices.
+- At the time of this version, the primary third parties are **Google Play**, **Apple App Store / Apple Media Services**, **Unity services (including Ads, Analytics, Authentication, and backend)**, and **GitHub** for repositories.
 - You should always review the privacy policies and terms presented by your device manufacturer, operating system provider, app store, and any SDK or service that appears in or around the Game.
 
 We are not responsible for the internal data practices of these independent third parties. Our role is to configure and use third-party tools in a way that aligns with data minimisation and lawful use from our side.
@@ -301,9 +314,10 @@ Details about international transfers are described in the respective privacy po
 
 The Game is **not targeted at children** and is primarily intended for users aged **16 and above**.
 
-- We do not knowingly collect personal data from children who cannot lawfully provide consent under applicable data protection laws.  
-- If you are under the applicable age threshold, you should not use the Game unless your parent or legal guardian has reviewed this Privacy Policy, the Terms of Use, and any applicable app store rules and has provided any required consent.  
-- If we become aware that we have unintentionally collected personal data from a child in violation of applicable law, we will take reasonable steps to delete that data.
+- Players aged **13 to 15** may use the Game only if their parent or legal guardian has reviewed this Privacy Policy, the Terms of Service, and any app store disclosures and has provided the necessary consent.
+- Players **under 13** are **not permitted** to access the Game. The in-game age selector has a minimum setting of 13 and will deny access if a lower age is provided. We may also review reports or signals that indicate an account belongs to someone under 13.
+- If you are between 13 and 15, your guardian may contact us at **OrbisMayhem@protonmail.com** with your account ID to provide or revoke consent, request data deletion, or raise concerns. If we do not receive the required consent, we may suspend or delete the account.
+- If we learn that we unintentionally collected data from a child below the permitted age or that a 13–15-year-old lacks guardian consent, we will delete the account or take other appropriate steps to comply with the law.
 
 ---
 
