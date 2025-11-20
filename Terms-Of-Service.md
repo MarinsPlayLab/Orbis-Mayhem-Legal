@@ -28,17 +28,20 @@ By accepting these Terms, you confirm that you have read and understood the Priv
 
 ## 3. Eligibility and Age Requirements
 
-- The Game is primarily intended for users aged **16 years or older**.
-- Players aged **13 to 15** may access the Game only if their parent or legal guardian has reviewed these Terms and the Privacy Policy and has provided any consent required by applicable law.
+- The Game is not targeted at children and is primarily intended for users aged **18 and above**.
+- The minimum age to play the Game is **13 years old**.
+- If you are **under 18**, you may only proceed if you confirm that a parent or legal guardian has reviewed these Terms and the Privacy Policy with you and, where required by law, has provided any necessary consent.
 - Players **under 13** must **not** use the Game. The first-launch age selector has a minimum setting of 13, and the Game will deny access if an age below 13 is selected or otherwise detected.
 
 By using the Game, you represent and warrant that:
 
 - The age you provide through the in-game age confirmation (shown on first launch, account creation, or when changing from guest to registered account) is truthful and accurate;
-- You meet the minimum age requirement for your region, or you have verifiable parental/guardian consent if you are between 13 and 15;
+- If you are under 18, you have had these Terms and the Privacy Policy reviewed with you by a parent or legal guardian and you have any consent required by applicable law;
 - You will promptly stop using the Game if you fall below the permitted age or if a guardian revokes consent.
 
-Guardians can contact us at **OrbisMayhem@protonmail.com** with the player’s account ID (available in the in-game account settings) to review, provide, or revoke consent, request deletion of an underage account, or raise any related concerns. If we learn that an account belongs to a player under 13, or that a 13–15-year-old does not have appropriate consent, we may suspend or delete the account to comply with the law and our policies.
+Guardians can contact us at **OrbisMayhem@protonmail.com** with the player’s account ID (available in the in-game account settings) to review, provide, or revoke consent, request deletion of an underage account, or raise any related concerns. If we learn that an account belongs to a player under 13, or that a 13–17-year-old does not have appropriate consent, we may suspend or delete the account to comply with the law and our policies.
+
+We may generate anonymised age analytics to understand the age distribution of our players and improve compliance measures, as further described in the Privacy Policy.
 
 You are responsible for ensuring that your use of the Game complies with all applicable laws, regulations, and app store rules in your jurisdiction.
 
