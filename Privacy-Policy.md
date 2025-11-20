@@ -168,15 +168,16 @@ We may review or store copies of chat logs and moderation actions for a limited 
 
 ### 4.8 Age Confirmation and Guardian Contact Data
 
-When you first open the Game or create an account, we ask you to confirm your age using an in-game selector. The minimum selectable age is 13. We store the confirmed age range (for example, “under 13”, “13–15”, “16+”) or a timestamped declaration so that we can:
+When you first open the Game or create an account, we ask you to confirm your age using an in-game selector. The minimum selectable age is 13. We store the confirmed age range (for example, “under 13”, “13–17”, “18+”) or a timestamped declaration so that we can:
 
 - Ensure we do not knowingly allow players under 13 to access the Game;
-- Determine whether we must request parental/guardian consent for players aged 13 to 15;
-- Demonstrate compliance with applicable laws if questions arise.
+- Confirm that players under 18 have had these terms reviewed with a parent/guardian and collect any consent required by law;
+- Demonstrate compliance with applicable laws if questions arise;
+- Produce anonymised age analytics to understand the age distribution of our players.
 
 If a parent or guardian contacts us at **OrbisMayhem@protonmail.com** with the player’s account ID (visible in the in-game settings), we may collect the guardian’s name and contact details solely to verify consent decisions, respond to requests (including deletion of an underage account), and keep an audit record of the correspondence.
 
-Providing false age information or failing to secure guardian consent when required may lead to suspension or deletion of the account in line with the Terms of Service.
+Providing false age information or failing to secure guardian review or consent when required (for example, between ages 13 and 17) may lead to suspension or deletion of the account in line with the Terms of Service.
 
 ---
 
@@ -193,10 +194,11 @@ Under EU data protection law, we must have a valid legal basis for each processi
 
 2. **Legitimate interests (Article 6(1)(f) GDPR)**  
    For example:
-   - Maintaining and improving the stability, security, and performance of the Game.  
-   - Detecting and preventing cheating, hacking, fraud, or other misuse.  
-   - Running non-intrusive analytics to balance gameplay, fix bugs, and improve user experience.  
-   - Operating and moderating social features (leaderboards, global chat) to keep the environment fair and respectful.  
+   - Maintaining and improving the stability, security, and performance of the Game.
+   - Detecting and preventing cheating, hacking, fraud, or other misuse.
+   - Running non-intrusive analytics to balance gameplay, fix bugs, and improve user experience.
+   - Generating anonymised age analytics to understand the overall age distribution of players and improve compliance measures without storing directly identifying age data.
+   - Operating and moderating social features (leaderboards, global chat) to keep the environment fair and respectful.
    - Defending our rights and responding to legal claims.
 
    We balance these interests against your rights and freedoms and apply safeguards such as data minimisation and retention limits.
@@ -312,12 +314,12 @@ Details about international transfers are described in the respective privacy po
 
 ## 9. Children’s Privacy and Age Limits
 
-The Game is **not targeted at children** and is primarily intended for users aged **16 and above**.
+The Game is **not targeted at children** and is primarily intended for users aged **18 and above**.
 
-- Players aged **13 to 15** may use the Game only if their parent or legal guardian has reviewed this Privacy Policy, the Terms of Service, and any app store disclosures and has provided the necessary consent.
+- The minimum age to access the Game is **13**. If you are **under 18**, you may proceed only if you confirm that a parent or legal guardian has reviewed this Privacy Policy, the Terms of Service, and any app store disclosures with you and, where required by law, has provided the necessary consent.
 - Players **under 13** are **not permitted** to access the Game. The in-game age selector has a minimum setting of 13 and will deny access if a lower age is provided. We may also review reports or signals that indicate an account belongs to someone under 13.
-- If you are between 13 and 15, your guardian may contact us at **OrbisMayhem@protonmail.com** with your account ID to provide or revoke consent, request data deletion, or raise concerns. If we do not receive the required consent, we may suspend or delete the account.
-- If we learn that we unintentionally collected data from a child below the permitted age or that a 13–15-year-old lacks guardian consent, we will delete the account or take other appropriate steps to comply with the law.
+- If you are between **13 and 17**, your guardian may contact us at **OrbisMayhem@protonmail.com** with your account ID to provide or revoke consent, request data deletion, or raise concerns. If we do not receive the required consent, we may suspend or delete the account.
+- If we learn that we unintentionally collected data from a child below the permitted age or that a 13–17-year-old lacks guardian review or consent where required, we will delete the account or take other appropriate steps to comply with the law.
 
 ---
 
