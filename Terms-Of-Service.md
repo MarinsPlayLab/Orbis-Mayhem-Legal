@@ -13,8 +13,8 @@ Marins PlayLab Studio is a small, hobbyist indie game development studio based i
 **Marins PlayLab Studio**  
 Independent hobbyist indie game development studio based in the European Union  
 
-Contact for legal and support matters:  
-**Email:** OrbisMayhem@protonmail.com  
+Contact for legal and support matters:
+**Email:** contact@marinsplaylab.studio
 
 ---
 
@@ -39,7 +39,7 @@ By using the Game, you represent and warrant that:
 - If you are under 18, you have had these Terms and the Privacy Policy reviewed with you by a parent or legal guardian and you have any consent required by applicable law;
 - You will promptly stop using the Game if you fall below the permitted age or if a guardian revokes consent.
 
-Guardians can contact us at **OrbisMayhem@protonmail.com** with the player’s account ID (available in the in-game account settings) to review, provide, or revoke consent, request deletion of an underage account, or raise any related concerns. If we learn that an account belongs to a player under 13, or that a 13–17-year-old does not have appropriate consent, we may suspend or delete the account to comply with the law and our policies.
+Guardians can contact us at **contact@marinsplaylab.studio** with the player’s account ID (available in the in-game account settings) to review, provide, or revoke consent, request deletion of an underage account, or raise any related concerns. If we learn that an account belongs to a player under 13, or that a 13–17-year-old does not have appropriate consent, we may suspend or delete the account to comply with the law and our policies.
 
 We may generate anonymised age analytics to understand the age distribution of our players and improve compliance measures, as further described in the Privacy Policy.
 

@@ -15,8 +15,8 @@ The data controller for personal data processed in connection with the Game is:
 **Marins PlayLab Studio**  
 Independent hobbyist indie game development studio based in the European Union  
 
-Contact for data protection and privacy matters:  
-**Email:** OrbisMayhem@protonmail.com  
+Contact for data protection and privacy matters:
+**Email:** contact@marinsplaylab.studio
 
 ---
 
@@ -175,7 +175,7 @@ When you first open the Game or create an account, we ask you to confirm your ag
 - Demonstrate compliance with applicable laws if questions arise;
 - Produce anonymised age analytics to understand the age distribution of our players.
 
-If a parent or guardian contacts us at **OrbisMayhem@protonmail.com** with the player’s account ID (visible in the in-game settings), we may collect the guardian’s name and contact details solely to verify consent decisions, respond to requests (including deletion of an underage account), and keep an audit record of the correspondence.
+If a parent or guardian contacts us at **contact@marinsplaylab.studio** with the player’s account ID (visible in the in-game settings), we may collect the guardian’s name and contact details solely to verify consent decisions, respond to requests (including deletion of an underage account), and keep an audit record of the correspondence.
 
 Providing false age information or failing to secure guardian review or consent when required (for example, between ages 13 and 17) may lead to suspension or deletion of the account in line with the Terms of Service.
 
@@ -318,7 +318,7 @@ The Game is **not targeted at children** and is primarily intended for users age
 
 - The minimum age to access the Game is **13**. If you are **under 18**, you may proceed only if you confirm that a parent or legal guardian has reviewed this Privacy Policy, the Terms of Service, and any app store disclosures with you and, where required by law, has provided the necessary consent.
 - Players **under 13** are **not permitted** to access the Game. The in-game age selector has a minimum setting of 13 and will deny access if a lower age is provided. We may also review reports or signals that indicate an account belongs to someone under 13.
-- If you are between **13 and 17**, your guardian may contact us at **OrbisMayhem@protonmail.com** with your account ID to provide or revoke consent, request data deletion, or raise concerns. If we do not receive the required consent, we may suspend or delete the account.
+- If you are between **13 and 17**, your guardian may contact us at **contact@marinsplaylab.studio** with your account ID to provide or revoke consent, request data deletion, or raise concerns. If we do not receive the required consent, we may suspend or delete the account.
 - If we learn that we unintentionally collected data from a child below the permitted age or that a 13–17-year-old lacks guardian review or consent where required, we will delete the account or take other appropriate steps to comply with the law.
 
 ---
